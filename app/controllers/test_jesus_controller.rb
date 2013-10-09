@@ -1,0 +1,2 @@
+class TestJesusController < ApplicationController
+end
